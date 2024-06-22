@@ -1,1 +1,1 @@
-# Fashion-Apparel-Detection-CV-Project
+# Fashion-Apparel-Detection
